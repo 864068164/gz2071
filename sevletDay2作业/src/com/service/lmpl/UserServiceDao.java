@@ -42,5 +42,5 @@ public class UserServiceDao implements UserService {
 		User login = udao.login(name, password);
 		return login;
 	}
-
+	public void test () {}
 }
