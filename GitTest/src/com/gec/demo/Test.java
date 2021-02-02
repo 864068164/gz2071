@@ -5,4 +5,7 @@ public interface Test {
 	void test();
 	//第二次提交更新
 	void showData();
+	
+	//第三次提交更新
+	void update();
 }
